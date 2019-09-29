@@ -1,2 +1,2 @@
-# medicalpracticewebapp
-Medical practice web application built for University project using PHP and MVC framework Codeigniter.
+# doctor_appointment
+ Medical practice application developed using PHP and CodeIgniter MVC Framework called Anglia Medical Practice.
